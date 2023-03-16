@@ -1,0 +1,15 @@
+C:\Users\sahib\source\repos\HttpClient\bin\Debug\net6.0\HttpClient.exe
+C:\Users\sahib\source\repos\HttpClient\bin\Debug\net6.0\HttpClient.deps.json
+C:\Users\sahib\source\repos\HttpClient\bin\Debug\net6.0\HttpClient.runtimeconfig.json
+C:\Users\sahib\source\repos\HttpClient\bin\Debug\net6.0\HttpClient.dll
+C:\Users\sahib\source\repos\HttpClient\bin\Debug\net6.0\HttpClient.pdb
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.csproj.AssemblyReference.cache
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfoInputs.cache
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.AssemblyInfo.cs
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.dll
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\refint\HttpClient.dll
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.pdb
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\HttpClient.genruntimeconfig.cache
+C:\Users\sahib\source\repos\HttpClient\obj\Debug\net6.0\ref\HttpClient.dll
